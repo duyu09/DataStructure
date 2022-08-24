@@ -3,8 +3,8 @@ On behalf of the Software Engineering (Software Development) 21-1 class of Qilu 
 
 All the PPTs and documents:
 
-Copyright (c) 2022 Mrs WangDi, National Super Computing Center in Jinan & Qilu University of Technology (Shandong Academy of Sciences), Faculty of Computer Science & Technology.
+Copyright (c) 2022 Mrs WangDi, ShanDong Computer Science Center (National Super Computing Center in Jinan) & Qilu University of Technology (Shandong Academy of Sciences), Faculty of Computer Science & Technology.
 
 Part of source code:
 
-Copyright (c) 2021~2022 Qilu University of Technology (Shandong Academy of Sciences), Faculty of Computer Science & Technology, Software Engineering (Software Development) 21-1 Class, Duyu.(No.202103180009).
+Copyright (c) 2021~2022 Qilu University of Technology (Shandong Academy of Sciences), Faculty of Computer Science & Technology, Software Engineering (Software Development) 21-1 Class, Duyu. (No.202103180009).
