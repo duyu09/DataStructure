@@ -14,10 +14,13 @@ Copyright (c) 2021~2022 Qilu University of Technology (Shandong Academy of Scien
 
 全部的PPT和文档类文件：
 
-山东省计算中心（国家超级计算济南中心）与 齐鲁工业大学（山东省科学院）计算机科学与技术学部 王迪老师  保留所有著作权。
+山东省计算中心（国家超级计算济南中心）与 齐鲁工业大学（山东省科学院）计算机科学与技术学部 王迪老师  保留部分著作权。上述文件的全部素材均通过合法途径获得。
 
 部分源代码：
 
 齐鲁工业大学 计算机科学与技术学院 软件工程(软件开发)21-1班 杜宇 保留著作权。
 
 2022年08月24日
+
+## Statistics of Visiting Numbers
+<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_DataStructure" /></div> 
